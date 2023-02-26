@@ -53,5 +53,6 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>demo</finalName>
     </build>
 </project>
